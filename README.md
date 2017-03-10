@@ -1,1 +1,6 @@
-# echartsDemo
+# 雾霾数据可视化
+## 效果展示
+![](echartsdemo.jpg)
+
+- 数据使用 node.js 制作爬虫程序, 爬取环保部网站的当日雾霾数据
+- 前端使用 echarts 制作页面, 进行数据可视化分析
